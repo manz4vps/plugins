@@ -1,0 +1,5 @@
+name: PteroBridgeServer
+version: 3.1.2-fix2
+main: id.pterobridge.server.MultiBridgeServer
+api-version: '1.21'
+description: Experimental multiplexed PteroBridge gateway (raw-stream fix)

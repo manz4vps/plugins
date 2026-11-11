@@ -1,0 +1,3 @@
+token: "CHANGE_ME_TO_A_LONG_RANDOM_SECRET"
+routes:
+  - "PUBLIC_IP=18779"

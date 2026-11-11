@@ -1,0 +1,5 @@
+name: PteroBridgeClient
+version: 3.1.2-fix2
+main: id.pterobridge.client.MultiBridgeClient
+api-version: '1.21'
+description: Experimental multiplexed PteroBridge client (raw-stream fix)

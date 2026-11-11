@@ -1,0 +1,6 @@
+server-host: "PANEL1_PUBLIC_IP"
+gateway-port: 18779
+public-address: "PANEL1_PUBLIC_IP:18779"
+token: "CHANGE_ME_TO_A_LONG_RANDOM_SECRET"
+target-host: "127.0.0.1"
+target-port: 18779
